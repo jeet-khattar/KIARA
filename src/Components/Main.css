@@ -651,3 +651,123 @@ margin: 50px 0px 50px;
   margin: 10px 0px 10px;
 }
 }
+
+/* Mobile Phone  */
+@media (max-width:768px) {
+       .foooter{
+  padding-top: 20px;
+ }
+  .foooter h1{
+  font-size: 25px;
+}
+.foooter p{
+  font-size: 13px;
+  color: rgb(103, 103, 103);
+}
+.foooter .col h5{
+  font-size: 19px;
+  
+}
+.foooter .col ul li{
+  font-size: 13px;
+}
+#email, #number{
+  font-size: 15px;
+  text-align: center;
+}
+
+.foooter .col ul li a span{
+  font-size: 18px;
+}
+.instafollowbtn{
+  font-size: 13px;
+  width: auto;
+  padding: 10px;
+  height: auto;
+  margin: 20px 0px 0px;
+}
+.outerside{
+  height: 30vh;
+}
+.outerside h1{
+  font-size: 31px;
+}
+.SignUp button{
+  width: 40%;
+  height: 40px;
+  font-size: 20px;
+}
+.SignUp input{
+   width: 40%;
+  height: 40px;
+  font-size: 20px;
+}
+.cardbox .card-text-1{
+  font-size: 27px;
+}
+.cardbox .card-title{
+  font-size: 22px;
+}
+.cardbox .card-text{
+  font-size: 18px;
+}
+.Blogheading h1{
+font-size: 30px;
+}
+.Blogheading a{
+  font-size: 22px;
+}
+.wintercollection{
+  height: 40vh;
+
+}
+.wintercollection .classic-winter{
+  gap: 10px;
+  padding: 10px;
+}
+.wintercollection .classic-winter h1{
+  font-size: 25px;
+}
+.wintercollection .classic-winter p{
+  font-size: 17px;
+}
+.Bestsellingitem h1{
+  font-size: 30px;
+}
+.Bestsellingitem a{
+  font-size: 22px;
+}
+.Bestsellingitem {
+  margin: 30px 0px 30px;
+}
+.provides i{
+  font-size: 25px;
+}
+.provides h1{
+  font-size: 23px;
+}
+.provides{
+margin: 50px 0px 50px;
+}
+.cardss .col-lg-4 .card .card-body h5{
+  font-size: 25px;
+}
+.cardss .col-lg-4 .card .card-body p{
+  font-size: 22px;
+}
+.cardss .col-lg-4 .card .card-body a{
+  font-size: 20px;
+}
+.new-collecion{
+  font-size: 50px;
+  margin: 20px 0px 20px;
+}
+.new-collecion-para{
+  font-size: 24px;
+  width: 70%;
+  margin: 10px  15% 30px;
+}
+.category{
+  margin: 10px 0px 10px;
+}
+}

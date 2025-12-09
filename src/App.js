@@ -14,8 +14,8 @@ import BlogPosts from './Components/BlogPosts/BlogPosts';
 import SignUp from './Components/SignUp/SignUp';
 import Instapage from './Components/InstaPage/Instapage';
 import Footer from './Components/Footer/Footer';
-import Product from './Components/Product';
-import Myproducts from './Components/Myproducts';
+import { BrowserRouter, Routes } from 'react-router-dom';
+import { Route } from 'lucide-react';
 
 function App() {
   return (
@@ -33,8 +33,6 @@ function App() {
       <SignUp/>
       <Instapage/>
       <Footer/>
-      <Myproducts/>
-
     </div>
   );
 }
