@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/KIARA/static/css/main.f5f02808.css",
+    "main.js": "/KIARA/static/js/main.a238e798.js",
+    "static/js/453.c829b65d.chunk.js": "/KIARA/static/js/453.c829b65d.chunk.js",
+    "static/media/high-neck-sweter.jpg": "/KIARA/static/media/high-neck-sweter.f52ccc129c14fd3a9cb7.jpg",
+    "static/media/accessories.jpg": "/KIARA/static/media/accessories.091a52ec532c22657580.jpg",
+    "static/media/womenshop.jpg": "/KIARA/static/media/womenshop.2b952581123740da1a75.jpg",
+    "static/media/leather-jacket.jpg": "/KIARA/static/media/leather-jacket.f9c0fb1d0ea81c41d15f.jpg",
+    "static/media/menshop.jpg": "/KIARA/static/media/menshop.21e639eb6e4d474deea4.jpg",
+    "static/media/blue-jackets.jpg": "/KIARA/static/media/blue-jackets.6ae22975ffb8b922747b.jpg",
+    "static/media/single-image-2.jpg": "/KIARA/static/media/single-image-2.df6900a2f46a198ac79e.jpg",
+    "static/media/post-image3.jpg": "/KIARA/static/media/post-image3.5289ad745a1d3cce1725.jpg",
+    "static/media/post-image1.jpg": "/KIARA/static/media/post-image1.ec1686326befc1b1e3a7.jpg",
+    "static/media/product-item-1.jpg": "/KIARA/static/media/product-item-1.c59397cd4e45d7a395b3.jpg",
+    "static/media/product-item-2.jpg": "/KIARA/static/media/product-item-2.606267684f9eb40cc448.jpg",
+    "static/media/product-item-3.jpg": "/KIARA/static/media/product-item-3.2d3f1a12df79fc9c9f4e.jpg",
+    "static/media/post-image2 (1).jpg": "/KIARA/static/media/post-image2 (1).d77b11fc7cb468579f31.jpg",
+    "static/media/insta-item3.jpg": "/KIARA/static/media/insta-item3.4de2657a77e82e3dee5f.jpg",
+    "static/media/insta-item1.jpg": "/KIARA/static/media/insta-item1.9502ef6d6dd5b5b6d2a3.jpg",
+    "static/media/insta-item6.jpg": "/KIARA/static/media/insta-item6.28fbfcf1efa490f2045e.jpg",
+    "static/media/product-item-4.jpg": "/KIARA/static/media/product-item-4.d9dc455c80b0e2d10ae4.jpg",
+    "static/media/insta-item5.jpg": "/KIARA/static/media/insta-item5.4200faec2ca6c95fe236.jpg",
+    "static/media/insta-item4.jpg": "/KIARA/static/media/insta-item4.0927e9c401060a5ef973.jpg",
+    "static/media/insta-item2.jpg": "/KIARA/static/media/insta-item2.123e3570598cebe816a9.jpg",
+    "index.html": "/KIARA/index.html",
+    "main.f5f02808.css.map": "/KIARA/static/css/main.f5f02808.css.map",
+    "main.a238e798.js.map": "/KIARA/static/js/main.a238e798.js.map",
+    "453.c829b65d.chunk.js.map": "/KIARA/static/js/453.c829b65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f02808.css",
+    "static/js/main.a238e798.js"
+  ]
+}
